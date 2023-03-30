@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://github-profile-trophy.vercel.app/?username=goAzamat&theme=flat
+
 - 🔭 I’m currently working on Youtube tutorials
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on live coding
