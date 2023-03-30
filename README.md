@@ -13,6 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/goAzamat](https://github.com/goAzamat/)
 
-- 💬 Ask me about **COFFEE|WEB-DEVELOPMENT|**
+- 💬 Ask me about **COFFEE|WEB-DEVELOPMENT**
 
 - 📫 How to reach me **asemkulov3@gmail.com** or [Telegram](https://t.me/azamatech/)
